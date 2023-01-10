@@ -3,6 +3,7 @@
         "limits": "cpp",
         "utility": "cpp",
         "iterator": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "iostream": "cpp"
     }
 }
